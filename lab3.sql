@@ -1,0 +1,3 @@
+declare
+qtyinvent.quantity%type;
+
