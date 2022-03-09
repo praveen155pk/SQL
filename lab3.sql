@@ -1,3 +1,0 @@
-declare
-qtyinvent.quantity%type;
-
